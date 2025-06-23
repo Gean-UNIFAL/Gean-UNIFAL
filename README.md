@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sejam bem-vindos ao meu perfil! 👋
 
 <!--
 **Gean-UNIFAL/Gean-UNIFAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Sobre mim:
+🇧🇷 Meu nome é Gean Marques, sou brasileiro e atualmente moro no Estado de Minas Gerais
+💻 Estudante de Ciência da Computação na Universidade Federal de Alfenas - UNIFAL-MG
+📖 Atualmente envolvido no estudo de diversas matérias, mas com interesse enfático em desenvolvimento Back-End e análise de dados
+🎮 Geek de nascimento, nerd por obrigação
+📫 E-mail de contato: gean.marques@sou.unifal-mg.edu.br
