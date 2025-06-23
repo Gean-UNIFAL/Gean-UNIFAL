@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 ## Sobre Mim:
 🇧🇷 Meu nome é Gean Marques, sou brasileiro e atualmente moro no Estado de Minas Gerais
+
 💻 Estudante de Ciência da Computação na Universidade Federal de Alfenas - UNIFAL-MG
+
 📖 Atualmente envolvido no estudo de diversas matérias, mas com interesse enfático em desenvolvimento Back-End e análise de dados
+
 🎮 Geek de nascimento, nerd por obrigação
+
 📫 E-mail de contato: gean.marques@sou.unifal-mg.edu.br
 
 ## Tecnologias e Linguagens:
